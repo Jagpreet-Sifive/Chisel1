@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:10:25: not found: type Serialipo[0m
+[0m[[0m[31merror[0m] [0m[0mclass SerialipoTests (c:Serialipo) extends PeekPokeTester(c){[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:10:44: too many arguments for constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass SerialipoTests (c:Serialipo) extends PeekPokeTester(c){[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:28:7: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m      poke(c.in.reg0, reg0)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:29:7: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m      poke(c.in.reg1,reg1)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:30:7: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m      poke(c.in.reg2,reg2)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:33:8: not found: value step[0m
+[0m[[0m[31merror[0m] [0m[0m       step(1) [0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:35:8: not found: value expect[0m
+[0m[[0m[31merror[0m] [0m[0m       expect(c.io.out , reg2)[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jagpreets/MyProj./MyChiselProject/src/test/scala/max/Serialipo.scala:36:27: not found: type Serialipo[0m
+[0m[[0m[31merror[0m] [0m[0m  assert (Driver(()=> new Serialipo) {c => new SerialipoTests (c)})[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

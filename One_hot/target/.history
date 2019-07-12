@@ -1,0 +1,48 @@
+testOnly gcd.GCDTester
+testOnly max.Max2.Tests
+[
+testOnly max.Max2Tests
+[
+testOnly max.Max2Tests
+testOnly max.Max2.Tests
+exit
+testOonly max.Max2Main
+testOnly max.Max2Main
+osdev:~> ls
+ChiselDesktop  MyProj.  project  Scala_Learning  target  workspace
+osdev:~> cd MyProj./MyChiselProject/s
+scalastyle-config.xml       src/
+scalastyle-test-config.xml  
+osdev:~> cd MyProj./MyChiselProject/src/t
+target/ test/   
+osdev:~> cd MyProj./MyChiselProject/src/test/scala/gcd/
+osdev:~/MyProj./MyChiselProject/src/test/scala/gcd> vi GCDMain.scala 
+osdev:~/MyProj./MyChiselProject/src/test/scala/gcd> ls
+GCDMain.scala  GCDUnitTest.scala
+osdev:~/MyProj./MyChiselProject/src/test/scala/gcd> vi GCDUnitTest.scala 
+osdev:~/MyProj./MyChiselProject/src/test/scala/gcd> cd ../../../..
+osdev:~/MyProj./MyChiselProject> sbt
+test:runMain max.Max2Main --backend-name=verilator
+testOnly max.Serialipo
+testOny NeWEx.Parallelipo
+testOnly NeWEx.Parallelipo
+testOnly NeWEx.Serialipo
+testOny NeWEx.Parallelipo
+testOnly NeWEx.Parallelipo
+osdev:~/MyProj./MyChiselProject/src/test/scala/gcd> cd ../../../..
+testOnly NeWEx.Parallelipo
+testOnly max.Serialiso
+clear al
+clear all
+testOnly max.Serialiso
+testOnly max.Parallel
+testOnly max.Serialiso
+testOnly NewEx.Serialipo
+testOnly max.Serialipo
+testOnly max.Serialiso
+testOnly Scala.Serialipo
+testOnly Scala.Bengu
+cd ..
+testOnly Scala.Bengu
+cd ..
+testOnly Scala.Bengu

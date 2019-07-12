@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDTester:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCD[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate proper greatest common denominator (with firrtl)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCD[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate proper greatest common denominator (with verilator)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasic test using Driver.execute[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be used as an alternative way to run specification[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32musing --backend-name verilator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be an alternative way to run using verilator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mrunning with --is-verbose[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should show more about what's going on in your tester[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mrunning with --generate-vcd-output on[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should create a vcd file from your test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mrunning with --generate-vcd-output off[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not create a vcd file from your test[0m[0m
