@@ -1,4 +1,4 @@
-CHISEL PROJECT  
+CHISEL 3 
 =============
 
  Hi, 
