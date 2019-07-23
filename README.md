@@ -1,2 +1,8 @@
 # Chisel_Week1
-This is a new repo.
+Boot_campl course problem 
+Basic examples. 
+Hardware (lit)
+Registers(simple, Operations).
+===
+
+
